@@ -1,0 +1,60 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+h3{
+    text-align: center;
+    background-color: black;
+    color:white;
+    justify-content:center;
+}
+
+.menu{
+background-color:green;
+justify-content: space-between;
+}
+
+.header{
+    background-color: black;
+    justify-content: center;
+    padding:20px;
+    }
+
+.grid {
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+
+ 
+
+
+p{
+text-align: left;
+background-color: greenyellow;
+}
+
+body{
+background-color: #ffffff
+}
+
+.grid img{
+border:solid;
+border-radius: 20px;
+border-width:4px;
+border-color: greenyellow;
+}
+
+.item{
+border-radius: 20px;
+background-color: #ffffff;
+padding:15px;
+margin: 25px;
+width:310px;
+font-family: fantasy;
+}
